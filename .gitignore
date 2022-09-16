@@ -1,0 +1,9 @@
+node_modules
+yarn.lock
+dist/
+testapp/node_modules
+testapp/.idea
+testapp/pb_data
+testapp/pocketbase.exe
+
+.idea/

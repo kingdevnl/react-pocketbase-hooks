@@ -1,0 +1,27 @@
+{
+  "name": "react-pocketbase-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kingdevnl/react-pocketbase-hooks.git",
+  "author": "Jasper <jasper@kingdev.nl>",
+  "license": "MIT",
+  "scripts": {
+    "format": ""
+  },
+  "peerDependencies": {
+    "pocketbase": "^0.7.0",
+    "react": "^18.2.0"
+  },
+  "typings": "index.d.ts",
+  "devDependencies": {
+    "@types/react": "^18.0.20",
+    "pocketbase": "^0.7.0",
+    "prettier": "^2.7.1",
+    "react": "^18.2.0",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "tslib": "^2.4.0"
+  }
+}

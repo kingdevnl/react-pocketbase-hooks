@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "importHelpers": true,
+    "lib": ["ES2016", "dom"],
+    "module": "ES6",
+    "target": "ES5",
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "jsx": "react",
+
+  },
+  "exclude": ["./dist", "./testapp"]
+}
